@@ -561,7 +561,6 @@
     )
   )
 
-
   (junction (at 185.42 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 026e02fe-8cd3-4e7e-b0e4-732cc5504312)
   )
@@ -879,7 +878,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "AL8861Y-13" (id 1) (at 171.45 95.25 0))
-    (property "Footprint" "SOT89-5" (id 2) (at 162.56 74.93 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-89-5" (id 2) (at 162.56 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/AL8861.pdf" (id 3) (at 147.32 86.36 0)
@@ -1487,7 +1486,7 @@
       (reference "R2") (unit 1) (value "10K") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/31ddefd3-1a8e-42d5-a5b9-a7a71a2b2753"
-      (reference "U0") (unit 1) (value "AL8861Y-13") (footprint "SOT89-5")
+      (reference "U0") (unit 1) (value "AL8861Y-13") (footprint "Package_TO_SOT_SMD:SOT-89-5")
     )
   )
 )
